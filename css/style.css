@@ -863,6 +863,7 @@ Work
 .single-work {
     position: relative;
     overflow: hidden;
+    border-radius: 8px;
 }
 
 .single-work img {
